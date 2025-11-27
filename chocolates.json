@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Munch",
+    "images": ["chocolates/1.jpg", "chocolates/2.jpg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 piece",
+    "ingredients": ["Wafer", "Chocolate"],
+    "nutrition": { "calories": 95, "protein": 1, "fats": 4, "carbs": 14 }
+  },
+  {
+    "id": 2,
+    "name": "Nestlé KitKat",
+    "images": ["chocolates/3.jpg", "chocolates/4.jpg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 piece",
+    "ingredients": ["Wafer", "Milk Chocolate"],
+    "nutrition": { "calories": 110, "protein": 2, "fats": 5, "carbs": 16 }
+  },
+  {
+    "id": 3,
+    "name": "5 Star",
+    "images": ["chocolates/5.jpg", "chocolates/6.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 piece",
+    "ingredients": ["Caramel", "Chocolate"],
+    "nutrition": { "calories": 140, "protein": 2, "fats": 6, "carbs": 20 }
+  },
+  {
+    "id": 4,
+    "name": "Tasty Nuts",
+    "images": ["chocolates/7.jpeg", "chocolates/8.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Peanuts", "Salt", "Oil"],
+    "nutrition": { "calories": 160, "protein": 6, "fats": 12, "carbs": 5 }
+  },
+  {
+    "id": 5,
+    "name": "50-50 Biscuit",
+    "images": ["chocolates/9.jpeg", "chocolates/10.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Sugar", "Salt"],
+    "nutrition": { "calories": 120, "protein": 2, "fats": 4, "carbs": 18 }
+  },
+  {
+    "id": 6,
+    "name": "Good Day Biscuit",
+    "images": ["chocolates/11.jpeg", "chocolates/12.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Butter", "Sugar"],
+    "nutrition": { "calories": 130, "protein": 2, "fats": 6, "carbs": 16 }
+  },
+  {
+    "id": 7,
+    "name": "Tedhe Medhe",
+    "images": ["chocolates/13.jpeg", "chocolates/14.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Corn Meal", "Oil", "Spices"],
+    "nutrition": { "calories": 150, "protein": 2, "fats": 8, "carbs": 17 }
+  },
+  {
+    "id": 8,
+    "name": "Dairy Milk",
+    "images": ["chocolates/15.jpeg", "chocolates/16.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 piece",
+    "ingredients": ["Milk Chocolate"],
+    "nutrition": { "calories": 120, "protein": 2, "fats": 6, "carbs": 15 }
+  },
+  {
+    "id": 9,
+    "name": "Milky Bar",
+    "images": ["chocolates/17.jpeg", "chocolates/18.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 piece",
+    "ingredients": ["Milk Solids", "Sugar"],
+    "nutrition": { "calories": 115, "protein": 2, "fats": 5, "carbs": 16 }
+  },
+  {
+    "id": 10,
+    "name": "Alpenliebe Candies",
+    "images": ["chocolates/19.jpeg", "chocolates/20.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "1 pack",
+    "ingredients": ["Sugar", "Milk", "Flavour"],
+    "nutrition": { "calories": 60, "protein": 0, "fats": 1, "carbs": 14 }
+  },
+  {
+    "id": 11,
+    "name": "Mentos Candies",
+    "images": ["chocolates/21.jpeg", "chocolates/22.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 roll",
+    "ingredients": ["Sugar", "Flavour"],
+    "nutrition": { "calories": 45, "protein": 0, "fats": 0, "carbs": 11 }
+  },
+  {
+    "id": 12,
+    "name": "Sweet Bun",
+    "images": ["chocolates/23.jpeg", "chocolates/24.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "2 bun",
+    "ingredients": ["Flour", "Sugar", "Yeast"],
+    "nutrition": { "calories": 150, "protein": 4, "fats": 3, "carbs": 28 }
+  },
+  {
+    "id": 13,
+    "name": "Chupa Chups Lollipop",
+    "images": ["chocolates/25.jpeg", "chocolates/26.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "1 piece",
+    "ingredients": ["Sugar", "Flavours"],
+    "nutrition": { "calories": 50, "protein": 0, "fats": 0, "carbs": 13 }
+  },
+  {
+    "id": 14,
+    "name": "Kure Kure",
+    "images": ["chocolates/27.jpeg", "chocolates/28.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "Pack of 2",
+    "ingredients": ["Corn", "Oil", "Spices"],
+    "nutrition": { "calories": 160, "protein": 2, "fats": 8, "carbs": 18 }
+  },
+  {
+    "id": 15,
+    "name": "Tomato Lays",
+    "images": ["chocolates/29.jpeg", "chocolates/30.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "Pack of 2",
+    "ingredients": ["Potato", "Oil", "Tomato Masala"],
+    "nutrition": { "calories": 150, "protein": 2, "fats": 9, "carbs": 14 }
+  },
+  {
+    "id": 16,
+    "name": "Gems",
+    "images": ["chocolates/31.jpeg", "chocolates/32.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "Pack of 2",
+    "ingredients": ["Sugar", "Cocoa", "Colours"],
+    "nutrition": { "calories": 80, "protein": 1, "fats": 2, "carbs": 15 }
+  },
+  {
+    "id": 17,
+    "name": "Chocolate Candy",
+    "images": ["chocolates/33.jpeg", "chocolates/34.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "1 piece",
+    "ingredients": ["Sugar", "Cocoa"],
+    "nutrition": { "calories": 55, "protein": 1, "fats": 2, "carbs": 10 }
+  },
+  {
+    "id": 18,
+    "name": "Snickers",
+    "images": ["chocolates/35.jpeg", "chocolates/36.jpeg"],
+    "selling_price": 20,
+    "original_price": 25,
+    "quantity": "1 bar",
+    "ingredients": ["Peanuts", "Caramel", "Chocolate"],
+    "nutrition": { "calories": 215, "protein": 4, "fats": 12, "carbs": 22 }
+  },
+  {
+    "id": 19,
+    "name": "Milk Bikis",
+    "images": ["chocolates/37.jpeg", "chocolates/38.jpeg"],
+    "selling_price": 20,
+    "original_price": 25,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Milk Solids"],
+    "nutrition": { "calories": 130, "protein": 3, "fats": 5, "carbs": 18 }
+  },
+  {
+    "id": 20,
+    "name": "Choco Pie (Full)",
+    "images": ["chocolates/39.jpeg", "chocolates/40.jpeg"],
+    "selling_price": 120,
+    "original_price": 140,
+    "quantity": "6 pieces",
+    "ingredients": ["Chocolate", "Marshmallow", "Wheat Flour"],
+    "nutrition": { "calories": 350, "protein": 4, "fats": 12, "carbs": 52 }
+  },
+  {
+    "id": 21,
+    "name": "Dairy Milk Mousse",
+    "images": ["chocolates/41.jpeg", "chocolates/42.jpeg"],
+    "selling_price": 120,
+    "original_price": 140,
+    "quantity": "1 bar",
+    "ingredients": ["Milk Chocolate", "Cream"],
+    "nutrition": { "calories": 240, "protein": 3, "fats": 12, "carbs": 28 }
+  },
+  {
+    "id": 22,
+    "name": "Dairy Milk Silk",
+    "images": ["chocolates/43.jpeg", "chocolates/44.jpeg"],
+    "selling_price": 240,
+    "original_price": 260,
+    "quantity": "1 bar",
+    "ingredients": ["Milk Chocolate"],
+    "nutrition": { "calories": 320, "protein": 4, "fats": 16, "carbs": 38 }
+  },
+  {
+    "id": 23,
+    "name": "Dairy Milk Bubbly",
+    "images": ["chocolates/45.jpeg", "chocolates/46.jpeg"],
+    "selling_price": 240,
+    "original_price": 260,
+    "quantity": "1 bar",
+    "ingredients": ["Milk Chocolate", "Aerated Bubbles"],
+    "nutrition": { "calories": 310, "protein": 4, "fats": 15, "carbs": 36 }
+  },
+  {
+    "id": 24,
+    "name": "Dairy Milk Hazelnut",
+    "images": ["chocolates/47.jpeg", "chocolates/48.jpeg"],
+    "selling_price": 120,
+    "original_price": 140,
+    "quantity": "1 bar",
+    "ingredients": ["Milk Chocolate", "Hazelnuts"],
+    "nutrition": { "calories": 280, "protein": 4, "fats": 16, "carbs": 29 }
+  },
+  {
+    "id": 25,
+    "name": "Dairy Milk Crispello",
+    "images": ["chocolates/49.jpeg", "chocolates/50.jpeg"],
+    "selling_price": 120,
+    "original_price": 140,
+    "quantity": "1 bar",
+    "ingredients": ["Chocolate", "Wafer Crisp"],
+    "nutrition": { "calories": 260, "protein": 3, "fats": 14, "carbs": 28 }
+  },
+  {
+    "id": 26,
+    "name": "Dairy Milk Nuts",
+    "images": ["chocolates/51.jpeg", "chocolates/52.jpeg"],
+    "selling_price": 125,
+    "original_price": 140,
+    "quantity": "1 bar",
+    "ingredients": ["Milk Chocolate", "Almonds"],
+    "nutrition": { "calories": 290, "protein": 5, "fats": 18, "carbs": 22 }
+  },
+  {
+    "id": 27,
+    "name": "Dairy Milk Oreo",
+    "images": ["chocolates/53.jpeg", "chocolates/54.jpeg"],
+    "selling_price": 120,
+    "original_price": 140,
+    "quantity": "1 bar",
+    "ingredients": ["Milk Chocolate", "Oreo Crumbs"],
+    "nutrition": { "calories": 275, "protein": 4, "fats": 15, "carbs": 30 }
+  },
+  {
+    "id": 28,
+    "name": "Robo Packet",
+    "images": ["chocolates/55.jpeg", "chocolates/56.jpeg"],
+    "selling_price": 5,
+    "original_price": 10,
+    "quantity": "Pack of 5",
+    "ingredients": ["Sugar", "Flavour"],
+    "nutrition": { "calories": 40, "protein": 0, "fats": 0, "carbs": 10 }
+  },
+  {
+    "id": 29,
+    "name": "Center Fresh",
+    "images": ["chocolates/57.jpeg", "chocolates/58.jpeg"],
+    "selling_price": 9,
+    "original_price": 10,
+    "quantity": "Pack of 10",
+    "ingredients": ["Sugar", "Mint"],
+    "nutrition": { "calories": 30, "protein": 0, "fats": 0, "carbs": 7 }
+  },
+  {
+    "id": 30,
+    "name": "Juzt Jelly",
+    "images": ["chocolates/59.jpeg", "chocolates/60.jpeg"],
+    "selling_price": 9,
+    "original_price": 10,
+    "quantity": "Pack of 10",
+    "ingredients": ["Sugar", "Fruit Pulp"],
+    "nutrition": { "calories": 35, "protein": 0, "fats": 0, "carbs": 9 }
+  },
+  {
+    "id": 31,
+    "name": "PepsiCo Lays",
+    "images": ["chocolates/61.jpeg", "chocolates/62.jpeg"],
+    "selling_price": 9,
+    "original_price": 12,
+    "quantity": "Pack of 2",
+    "ingredients": ["Potato", "Oil", "Salt"],
+    "nutrition": { "calories": 140, "protein": 2, "fats": 8, "carbs": 15 }
+  },
+  {
+    "id": 32,
+    "name": "Masala Lays",
+    "images": ["chocolates/63.jpeg", "chocolates/64.jpeg"],
+    "selling_price": 9,
+    "original_price": 12,
+    "quantity": "Pack of 2",
+    "ingredients": ["Potato", "Oil", "Masala"],
+    "nutrition": { "calories": 145, "protein": 2, "fats": 9, "carbs": 14 }
+  },
+  {
+    "id": 33,
+    "name": "Green Lays",
+    "images": ["chocolates/65.jpeg", "chocolates/66.jpeg"],
+    "selling_price": 9,
+    "original_price": 12,
+    "quantity": "Pack of 2",
+    "ingredients": ["Potato", "Oil", "Herbs"],
+    "nutrition": { "calories": 140, "protein": 2, "fats": 8, "carbs": 15 }
+  },
+  {
+    "id": 34,
+    "name": "Unibic Biscuit",
+    "images": ["chocolates/67.jpeg", "chocolates/68.jpeg"],
+    "selling_price": 15,
+    "original_price": 20,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Butter", "Sugar"],
+    "nutrition": { "calories": 160, "protein": 3, "fats": 7, "carbs": 20 }
+  },
+  {
+    "id": 35,
+    "name": "Horlicks Biscuit",
+    "images": ["chocolates/69.jpeg", "chocolates/70.jpeg"],
+    "selling_price": 20,
+    "original_price": 25,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Milk Solids"],
+    "nutrition": { "calories": 170, "protein": 4, "fats": 6, "carbs": 22 }
+  },
+  {
+    "id": 36,
+    "name": "Treat Biscuit",
+    "images": ["chocolates/71.jpeg", "chocolates/72.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Cream", "Chocolate"],
+    "nutrition": { "calories": 140, "protein": 2, "fats": 5, "carbs": 20 }
+  },
+  {
+    "id": 37,
+    "name": "Dark Fantasy",
+    "images": ["chocolates/73.jpeg", "chocolates/74.jpeg"],
+    "selling_price": 70,
+    "original_price": 100,
+    "quantity": "1 pack",
+    "ingredients": ["Chocolate", "Sugar", "Flour"],
+    "nutrition": { "calories": 220, "protein": 3, "fats": 10, "carbs": 30 }
+  },
+  {
+    "id": 38,
+    "name": "Choco Pie (1 piece)",
+    "images": ["chocolates/75.jpeg", "chocolates/76.jpeg"],
+    "selling_price": 14,
+    "original_price": 20,
+    "quantity": "1 piece",
+    "ingredients": ["Chocolate", "Marshmallow"],
+    "nutrition": { "calories": 120, "protein": 1, "fats": 5, "carbs": 18 }
+  },
+  {
+    "id": 39,
+    "name": "Bour Bon",
+    "images": ["chocolates/77.jpeg", "chocolates/78.jpeg"],
+    "selling_price": 40,
+    "original_price": 50,
+    "quantity": "1 pack",
+    "ingredients": ["Cocoa", "Sugar", "Wheat Flour"],
+    "nutrition": { "calories": 200, "protein": 3, "fats": 7, "carbs": 30 }
+  },
+  {
+    "id": 40,
+    "name": "Jim Jam",
+    "images": ["chocolates/79.jpeg", "chocolates/80.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Cream", "Jam"],
+    "nutrition": { "calories": 150, "protein": 2, "fats": 5, "carbs": 22 }
+  },
+  {
+    "id": 41,
+    "name": "Oreo",
+    "images": ["chocolates/81.jpeg", "chocolates/82.jpeg"],
+    "selling_price": 10,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Cocoa", "Cream", "Sugar"],
+    "nutrition": { "calories": 160, "protein": 2, "fats": 7, "carbs": 21 }
+  },
+  {
+    "id": 42,
+    "name": "Marie Gold",
+    "images": ["chocolates/83.jpeg", "chocolates/84.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Sugar"],
+    "nutrition": { "calories": 120, "protein": 2, "fats": 3, "carbs": 20 }
+  },
+  {
+    "id": 43,
+    "name": "Mena Butter Rusk",
+    "images": ["chocolates/85.jpeg", "chocolates/86.jpeg"],
+    "selling_price": 50,
+    "original_price": 60,
+    "quantity": "1 pack",
+    "ingredients": ["Wheat Flour", "Butter", "Sugar"],
+    "nutrition": { "calories": 250, "protein": 4, "fats": 10, "carbs": 35 }
+  },
+  {
+    "id": 44,
+    "name": "Bingo Lays",
+    "images": ["chocolates/87.jpeg", "chocolates/88.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "1 pack",
+    "ingredients": ["Potato", "Oil", "Spices"],
+    "nutrition": { "calories": 150, "protein": 2, "fats": 8, "carbs": 16 }
+  },
+  {
+    "id": 45,
+    "name": "Nabati Wafer Biscuit",
+    "images": ["chocolates/89.jpeg", "chocolates/90.jpg"],
+    "selling_price": 12,
+    "original_price": 15,
+    "quantity": "1 pack",
+    "ingredients": ["Wafer", "Cream", "Sugar"],
+    "nutrition": { "calories": 130, "protein": 2, "fats": 6, "carbs": 18 }
+  },
+  {
+    "id": 46,
+    "name": "Vicks",
+    "images": ["chocolates/91.jpeg", "chocolates/92.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "Pack of 10",
+    "ingredients": ["Menthol", "Sugar"],
+    "nutrition": { "calories": 40, "protein": 0, "fats": 0, "carbs": 10 }
+  },
+  {
+    "id": 47,
+    "name": "White Bread",
+    "images": ["chocolates/93.jpeg", "chocolates/94.jpeg"],
+    "selling_price": 24,
+    "original_price": 30,
+    "quantity": "1 pack",
+    "ingredients": ["Flour", "Yeast", "Sugar"],
+    "nutrition": { "calories": 250, "protein": 6, "fats": 2, "carbs": 45 }
+  },
+  {
+    "id": 48,
+    "name": "Gems",
+    "images": ["chocolates/95.jpeg", "chocolates/96.jpeg"],
+    "selling_price": 10,
+    "original_price": 12,
+    "quantity": "1 pack",
+    "ingredients": ["Sugar", "Cocoa", "Colours"],
+    "nutrition": { "calories": 80, "protein": 1, "fats": 2, "carbs": 15 }
+  }
+]
