@@ -478,6 +478,18 @@
     "quantity": "1 pack",
     "ingredients": ["Sugar", "Cocoa", "Colours"],
     "nutrition": { "calories": 80, "protein": 1, "fats": 2, "carbs": 15 }
-  }
+  },
+  {
+  "id": 49,
+  "name": "Bun Maska",
+  "images": ["chocolates/97.jpg", "chocolates/98.jpg"],
+  "selling_price": 30,
+  "original_price": 35,
+  "quantity": "1 piece",
+  "ingredients": ["Bun", "Butter", "Chocolate Cream"],
+  "nutrition": { "calories": 220, "protein": 4, "fats": 8, "carbs": 32 }
+}
+
 ]
+
 
