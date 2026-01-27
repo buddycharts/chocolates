@@ -488,9 +488,26 @@
   "quantity": "1 piece",
   "ingredients": ["Bun", "Butter", "Chocolate Cream"],
   "nutrition": { "calories": 220, "protein": 4, "fats": 8, "carbs": 32 }
+},
+  {
+  "id": 50,
+  "name": "Popcorn",
+  "images": ["snacks/99.jpg", "snacks/100.jpg"],
+  "selling_price": 25,
+  "original_price": 30,
+  "quantity": "1 cup",
+  "ingredients": ["Corn Kernels", "Butter", "Salt"],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "fats": 7,
+    "carbs": 24
+  }
 }
 
+
 ]
+
 
 
 
