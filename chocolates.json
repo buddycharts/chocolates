@@ -492,7 +492,7 @@
   {
   "id": 50,
   "name": "Popcorn",
-  "images": ["snacks/99.jpg", "snacks/100.jpg"],
+  "images": ["chocolates/99.jpg", "chocolates/100.jpg"],
   "selling_price": 25,
   "original_price": 30,
   "quantity": "1 cup",
@@ -507,6 +507,7 @@
 
 
 ]
+
 
 
 
