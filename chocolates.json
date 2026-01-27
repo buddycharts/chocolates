@@ -272,7 +272,7 @@
   {
     "id": 28,
     "name": "Robo Packet",
-    "images": ["chocolates/55.jpeg", "chocolates/56.jpeg"],
+    "images": ["chocolates/56.jpeg", "chocolates/57.jpeg"],
     "selling_price": 5,
     "original_price": 10,
     "quantity": "Pack of 5",
@@ -282,7 +282,7 @@
   {
     "id": 29,
     "name": "Center Fresh",
-    "images": ["chocolates/57.jpeg", "chocolates/58.jpeg"],
+    "images": ["chocolates/58.jpeg", "chocolates/59.jpeg"],
     "selling_price": 9,
     "original_price": 10,
     "quantity": "Pack of 10",
@@ -292,7 +292,7 @@
   {
     "id": 30,
     "name": "Juzt Jelly",
-    "images": ["chocolates/59.jpeg", "chocolates/60.jpeg"],
+    "images": ["chocolates/60.jpeg", "chocolates/61.jpeg"],
     "selling_price": 9,
     "original_price": 10,
     "quantity": "Pack of 10",
@@ -302,7 +302,7 @@
   {
     "id": 31,
     "name": "PepsiCo Lays",
-    "images": ["chocolates/61.jpeg", "chocolates/62.jpeg"],
+    "images": ["chocolates/62.jpeg", "chocolates/63.jpeg"],
     "selling_price": 9,
     "original_price": 12,
     "quantity": "Pack of 2",
@@ -312,7 +312,7 @@
   {
     "id": 32,
     "name": "Masala Lays",
-    "images": ["chocolates/63.jpeg", "chocolates/64.jpeg"],
+    "images": ["chocolates/64.jpeg", "chocolates/65.jpeg"],
     "selling_price": 9,
     "original_price": 12,
     "quantity": "Pack of 2",
@@ -322,7 +322,7 @@
   {
     "id": 33,
     "name": "Green Lays",
-    "images": ["chocolates/65.jpeg", "chocolates/66.jpeg"],
+    "images": ["chocolates/66.jpeg", "chocolates/67.jpeg"],
     "selling_price": 9,
     "original_price": 12,
     "quantity": "Pack of 2",
@@ -332,7 +332,7 @@
   {
     "id": 34,
     "name": "Unibic Biscuit",
-    "images": ["chocolates/67.jpeg", "chocolates/68.jpeg"],
+    "images": ["chocolates/68.jpeg", "chocolates/69.jpeg"],
     "selling_price": 15,
     "original_price": 20,
     "quantity": "1 pack",
@@ -342,7 +342,7 @@
   {
     "id": 35,
     "name": "Horlicks Biscuit",
-    "images": ["chocolates/69.jpeg", "chocolates/70.jpeg"],
+    "images": ["chocolates/70.jpeg", "chocolates/71.jpeg"],
     "selling_price": 20,
     "original_price": 25,
     "quantity": "1 pack",
@@ -352,7 +352,7 @@
   {
     "id": 36,
     "name": "Treat Biscuit",
-    "images": ["chocolates/71.jpeg", "chocolates/72.jpeg"],
+    "images": ["chocolates/72.jpeg", "chocolates/73.jpeg"],
     "selling_price": 10,
     "original_price": 15,
     "quantity": "1 pack",
@@ -362,7 +362,7 @@
   {
     "id": 37,
     "name": "Dark Fantasy",
-    "images": ["chocolates/73.jpeg", "chocolates/74.jpeg"],
+    "images": ["chocolates/74.jpeg", "chocolates/75.jpeg"],
     "selling_price": 70,
     "original_price": 100,
     "quantity": "1 pack",
@@ -372,7 +372,7 @@
   {
     "id": 38,
     "name": "Choco Pie (1 piece)",
-    "images": ["chocolates/75.jpeg", "chocolates/76.jpeg"],
+    "images": ["chocolates/76.jpeg", "chocolates/77.jpeg"],
     "selling_price": 14,
     "original_price": 20,
     "quantity": "1 piece",
@@ -382,7 +382,7 @@
   {
     "id": 39,
     "name": "Bour Bon",
-    "images": ["chocolates/77.jpeg", "chocolates/78.jpeg"],
+    "images": ["chocolates/78.jpeg", "chocolates/79.jpeg"],
     "selling_price": 40,
     "original_price": 50,
     "quantity": "1 pack",
@@ -392,7 +392,7 @@
   {
     "id": 40,
     "name": "Jim Jam",
-    "images": ["chocolates/79.jpeg", "chocolates/80.jpeg"],
+    "images": ["chocolates/80.jpeg", "chocolates/81.jpeg"],
     "selling_price": 10,
     "original_price": 15,
     "quantity": "1 pack",
@@ -402,7 +402,7 @@
   {
     "id": 41,
     "name": "Oreo",
-    "images": ["chocolates/81.jpeg", "chocolates/82.jpeg"],
+    "images": ["chocolates/82.jpeg", "chocolates/83.jpeg"],
     "selling_price": 10,
     "original_price": 15,
     "quantity": "1 pack",
@@ -412,7 +412,7 @@
   {
     "id": 42,
     "name": "Marie Gold",
-    "images": ["chocolates/83.jpeg", "chocolates/84.jpeg"],
+    "images": ["chocolates/84.jpeg", "chocolates/85.jpeg"],
     "selling_price": 10,
     "original_price": 12,
     "quantity": "1 pack",
@@ -422,7 +422,7 @@
   {
     "id": 43,
     "name": "Mena Butter Rusk",
-    "images": ["chocolates/85.jpeg", "chocolates/86.jpeg"],
+    "images": ["chocolates/86.jpeg", "chocolates/87.jpeg"],
     "selling_price": 50,
     "original_price": 60,
     "quantity": "1 pack",
@@ -432,7 +432,7 @@
   {
     "id": 44,
     "name": "Bingo Lays",
-    "images": ["chocolates/87.jpeg", "chocolates/88.jpeg"],
+    "images": ["chocolates/88.jpeg", "chocolates/89.jpeg"],
     "selling_price": 10,
     "original_price": 12,
     "quantity": "1 pack",
@@ -442,7 +442,7 @@
   {
     "id": 45,
     "name": "Nabati Wafer Biscuit",
-    "images": ["chocolates/89.jpeg", "chocolates/90.jpg"],
+    "images": ["chocolates/90.jpeg", "chocolates/91.jpg"],
     "selling_price": 12,
     "original_price": 15,
     "quantity": "1 pack",
@@ -491,6 +491,7 @@
 }
 
 ]
+
 
 
 
