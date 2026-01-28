@@ -36,9 +36,15 @@ app.get("/api/chocolates/:id", (req, res) => {
   res.json(item);
 });
 
+// 👉 ONLY ADDED THIS PART (nothing else changed)
+app.get("/ping", (req, res) => {
+  res.send("Server is awake 🚀");
+});
+
 // Render requires this:
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {
   console.log(`✔ Server running on port ${PORT}`);
 });
+
